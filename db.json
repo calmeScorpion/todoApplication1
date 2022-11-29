@@ -1,0 +1,16 @@
+{
+  "posts": [
+    {
+      "title": "Asvin",
+      "body": "my first App",
+      "updatedAt": 1668060477660,
+      "id": 1
+    },
+    {
+      "title": "hi",
+      "body": "hello",
+      "createdAt": 1669695898616,
+      "id": 2
+    }
+  ]
+}
